@@ -73,6 +73,7 @@ We designed and implemented the following models:
   - Greater range of pricing flexibility
 
 - **Visuals**: Real-time dropdown plot for each lot, showing the price curve using Bokeh.
+<img width="1017" alt="Screenshot 2025-07-10 at 12 11 12 AM" src="https://github.com/user-attachments/assets/9801cf83-1482-4cbf-abfa-0f88681aa2b4" />
 
 ---
 
