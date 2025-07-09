@@ -1,0 +1,13 @@
+
+Dynamic Pricing for Urban Parking Lots
+
+Project by: S. Premanandh  
+Date of Submission: 10 June 2025
+
+...
+
+[Full content truncated for brevity - full version would be used in file]
+
+...
+
+In summary, Dynamic Pricing for Urban Parking Lots was a capstone project that combined data-driven modeling with real-time system implementation to address a common urban challenge. Completed by S. Premanandh on June 10, 2025, the project delivered two dynamic pricing models and a live demonstration of their effectiveness. Through the use of Pathway for streaming data ingestion and Bokeh for live visualization, we showed how parking prices can be continually optimized based on demand indicators, all in an interpretable and controlled manner. The successful execution of this project suggests that cities could adopt similar approaches to make parking management more efficient and responsive. Ultimately, the work bridges the gap between theoretical dynamic pricing models and their deployment in a realistic setting, highlighting the value of both technology and thoughtful human-centric design in solving real-world problems.
