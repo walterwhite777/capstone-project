@@ -32,7 +32,21 @@ We designed and implemented the following models:
 - **Use Case**: Acts as the baseline for static linear pricing.
 - **Visuals**: Bokeh plots showing day-wise price evolution for each parking lot.
 
----
+---<img width="754" alt="Screenshot 2025-07-09 at 11 27 51 PM" src="https://github.com/user-attachments/assets/9f374623-a983-4e32-a922-95902d7406de" />
+<img width="750" alt="Screenshot 2025-07-09 at 11 28 01 PM" src="https://github.com/user-attachments/assets/23858067-7d4a-4353-beb9-0cffb97a3ca2" />
+<img width="754" alt="Screenshot 2025-07-09 at 11 28 08 PM" src="https://github.com/user-attachments/assets/f079e9b5-4066-4e2b-962a-1c37ccd5f7be" />
+<img width="754" alt="Screenshot 2025-07-09 at 11 28 15 PM" src="https://github.com/user-attachments/assets/a762606e-e29a-4af0-9c5d-d617e8101213" />
+<img width="750" alt="Screenshot 2025-07-09 at 11 28 21 PM" src="https://github.com/user-attachments/assets/888f014d-82a1-460a-ac68-e235f08590bf" />
+<img width="753" alt="Screenshot 2025-07-09 at 11 28 28 PM" src="https://github.com/user-attachments/assets/851ff450-0013-410c-9e74-0e686ef32d08" /><img width="755" alt="Screenshot 2025-07-09 at 11 26 54 PM" src="https://github.com/user-attachments/assets/1821d7fc-9763-475e-b4c9-cdac7e1d7c4c" />
+<img width="752" alt="Screenshot 2025-07-09 at 11 27 06 PM" src="https://github.com/user-attachments/assets/043eb151-adb5-4f82-a577-4277175b68c3" />
+<img width="752" alt="Screenshot 2025-07-09 at 11 27 14 PM" src="https://github.com/user-attachments/assets/93f41e07-b9fd-43e8-8032-02269eb3068f" />
+<img width="753" alt="Screenshot 2025-07-09 at 11 27 26 PM" src="https://github.com/user-attachments/assets/cd2b2aae-8323-49c4-b975-b0d2b8c71129" />
+<img width="751" alt="Screenshot 2025-07-09 at 11 27 35 PM" src="https://github.com/user-attachments/assets/18f46ac0-5602-42a3-9692-8148be3bd26d" />
+<img width="754" alt="Screenshot 2025-07-09 at 11 27 44 PM" src="https://github.com/user-attachments/assets/737d3c80-44dc-4cad-b2e9-8fe0c9fff83d" />
+<img width="748" alt="Screenshot 2025-07-09 at 11 26 38 PM" src="https://github.com/user-attachments/assets/d11bf493-a213-4dc4-a395-f931ed754a5e" />
+<img width="749" alt="Screenshot 2025-07-09 at 11 26 46 PM" src="https://github.com/user-attachments/assets/d331d297-195e-47bf-9d1e-6c1ea25ed0dc" />
+
+
 
 ### ✅ Model 2: Demand-Based Dynamic Pricing (Advanced)
 
