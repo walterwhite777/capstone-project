@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 # 🚗 Dynamic Pricing for Urban Parking Lots – Summer Analytics 2025
 
 ## 📁 Project Overview
@@ -142,3 +143,6 @@ Model 2, in particular, shows the potential of **adaptive pricing** that respond
 
 **Prem Anandh**  
 Summer Analytics 2025 – Indian Institute of Technology Patna  
+
+## License
+This project is licensed under the [MIT License](LICENSE).
